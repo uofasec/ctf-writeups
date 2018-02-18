@@ -33,7 +33,7 @@ Mov it!
 07_Lateral_Movement
 200
 
-#Secure Coding/Config
+# Secure Coding/Config
 
 nginx
 25
