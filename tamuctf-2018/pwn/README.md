@@ -1,3 +1,4 @@
-#pwn1
-objdump and identify the line to compare strings
-using gdb, breakpoint the line, step through the code, and inspect 'x/s $1' the string
+# pwn1
+
+First, objdump and identify the line to compare strings.
+Then using gdb, breakpoint the line, run, and inspect 'x/s $1' the string.
